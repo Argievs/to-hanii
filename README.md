@@ -1,3 +1,3 @@
 # to-hanii
 
-just-a-simple-message
+just a simple message
